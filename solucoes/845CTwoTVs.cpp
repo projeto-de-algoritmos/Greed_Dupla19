@@ -1,4 +1,4 @@
-// Problema 845C - Two TVs- https://codeforces.com/contest/845/problem/C 
+// Problema 845C - Two TVs - https://codeforces.com/contest/845/problem/C 
 
 #include <bits/stdc++.h>
 using namespace std;
