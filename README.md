@@ -1,44 +1,41 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Algoritmos Ambiciosos- Dupla 19
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 3<br>
+**Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0023411  |  Maicon Lucas Mares de Souza |
+| 18/0018574  |  Hérya Rodrigues Alcantara |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+## Sobre
+Resolução de questões do [CodeForces](https://codeforces.com/) utilizando algoritmos ambiciosos. Todos os exercícios resolvidos possuem a tag "greedy".
+
+### Problemas:
+
+* [Problema 845C - Two TVs ](https://codeforces.com/contest/845/problem/C)
+* [Problema 1642B - Power Walking ](https://codeforces.com/problemset/problem/1642/B)
+* [Problema 1606C - Banknotes](https://codeforces.com/contest/1606/problem/C)
+* [Problema 1581B - Diameter of Graph](https://codeforces.com/contest/1581/problem/B)
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Problema 845C - Two TVs 
+![Problema 845C - Two TVs ](images/twoTvs.png)
+### Problema 1642B - Power Walking
+![Problema 1642B - Power Walking ](images/powerWalking.png)
+### Problema 1606C - Banknotes
+![Problema 1606C - Banknotes](images/bankNotes.png)
+### Problema 1581B - Diameter of Graph
+![Problema 1581B - Diameter of Graph](images/graph.png)
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+## Instalação
+**Linguagem**: C++<br>
+* Clonar o repositório;
+* Carregar o arquivo correspondente na página de submissão de cada problema;
+* Selecionar linguagem "GNU C++20 (64) " ou "GNU C++17";
+* Submeter resposta.
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
 
