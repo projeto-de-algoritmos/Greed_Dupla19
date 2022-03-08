@@ -9,6 +9,9 @@
 | 18/0023411  |  Maicon Lucas Mares de Souza |
 | 18/0018574  |  Hérya Rodrigues Alcantara |
 
+## Apresentação
+<a href="https://youtu.be/oqZ2GUzfG54">Assistir apresentação</a>
+
 ## Sobre
 Resolução de questões do [CodeForces](https://codeforces.com/) utilizando algoritmos ambiciosos. Todos os exercícios resolvidos possuem a tag "greedy".
 
